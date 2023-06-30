@@ -1,2 +1,4 @@
-# DeepLIntegration
-You can add this project with your optimizely project 
+# Valtech Optimizely DeepL Translation
+
+## Description
+Lorem ipsum
